@@ -18,9 +18,9 @@ This data is licensed by Microsoft under the [Open Data Commons Open Database Li
 
 | Location | Building Count | Link | Size (Compressed) |
 | :---: | :---: | :---: | :---: |
-| Indonesia | 63,947,880 | [Indonesia.geojsonl.zip](https://minedbuildings.blob.core.windows.net/southeast-asia/indonesia.geojsonl.zip) | 4.5GB |
+| Indonesia | 63,947,880 | [Indonesia.geojsonl.zip](https://minedbuildings.blob.core.windows.net/southeast-asia/indonesia.geojsonl.zip) | 4.4GB |
 | Philippines | 17,421,764 | [Philippines.geojsonl.zip](https://minedbuildings.blob.core.windows.net/southeast-asia/philippines.geojsonl.zip) | 1.1GB |
-| Malaysia | 7,283,908 | [Malaysia.geojsonl.zip](https://minedbuildings.blob.core.windows.net/southeast-asia/malaysia.geojsonl.zip) | 565MB |
+| Malaysia | 7,283,908 | [Malaysia.geojsonl.zip](https://minedbuildings.blob.core.windows.net/southeast-asia/malaysia.geojsonl.zip) | 548MB |
 
 ### What is the GeoJSON format?
 GeoJSON is a format for encoding a variety of geographic data structures. 
